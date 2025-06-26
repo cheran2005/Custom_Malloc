@@ -47,7 +47,6 @@ This project is a custom memory allocator implemented in C, replicating core fun
 - Test Application Includes:
   - Small (e.g. 16 bytes), medium (e.g. 256 bytes), and large (e.g. 2048+ bytes) allocations.
   - Demonstrates coalescing by freeing blocks and reusing space.
-  - Basic performance measurement using timing functions (`clock()`).
 
 
 🛠 How It Works
